@@ -1,2 +1,4 @@
 # hello-world
-first repository
+i'm mohamed
+i like python sql html &css
+
